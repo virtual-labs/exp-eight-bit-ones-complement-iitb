@@ -1,13 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
-</head>
-<body>
-		<!-- Your code goes here-->
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+<body>
+    <canvas id="mycanvas" width="850" height="700"></canvas>
+
+    <input type="button" style="position:absolute;left:75px;top:100px;width:50px;height:50px;border-radius:100%;border:solid;background-color:grey " onclick="meclick(1);" value="off" id="btn1" />
+    <input type="button" style="position:absolute;left:75px;top:160px;width:50px;height:50px;border-radius:100%;border:solid;background-color:grey " onclick="meclick(2);" value="off" id="btn2" />
+    <input type="button" style="position:absolute;left:75px;top:220px;width:50px;height:50px;border-radius:100%;border:solid;background-color:grey " onclick="meclick(3);" value="off" id="btn3" />
+    <input type="button" style="position:absolute;left:75px;top:280px;width:50px;height:50px;border-radius:100%;border:solid;background-color:grey " onclick="meclick(4);" value="off" id="btn4" />
+    <input type="button" style="position:absolute;left:75px;top:340px;width:50px;height:50px;border-radius:100%;border:solid;background-color:grey " onclick="meclick(5);" value="off" id="btn5" />
+    <input type="button" style="position:absolute;left:75px;top:400px;width:50px;height:50px;border-radius:100%;border:solid;background-color:grey " onclick="meclick(6);" value="off" id="btn6" />
+    <input type="button" style="position:absolute;left:75px;top:460px;width:50px;height:50px;border-radius:100%;border:solid;background-color:grey " onclick="meclick(7);" value="off" id="btn7" />
+    <input type="button" style="position:absolute;left:75px;top:520px;width:50px;height:50px;border-radius:100%;border:solid;background-color:grey " onclick="meclick(8);" value="off" id="btn8" />
+	<p style="font-size:large ">Task: Construct and verify the 8 bit complementing circuit using the generalized simulator with input value A7-A0 such that the decimal output is 15.
+</p>
+<iframe src="sim.html" width="100%" height="1000px"></iframe>  
 </body>
+<head>
+    <title></title>
+    <script src="js/gates.ob.js"></script>
+    <script src="js/leddigital.ob.js"></script>
+</head>
 </html>

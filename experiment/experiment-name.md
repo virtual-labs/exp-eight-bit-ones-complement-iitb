@@ -1,1 +1,1 @@
-## Experiment name
+## Basics of NOT gate and its application in an 8-bit one's complement circuit
