@@ -1,0 +1,61 @@
+
+  [
+    {
+      "question": "The output of the circuit shown below represents which of the following operations? <br> <img src = 'images/p5.png' >",
+      "qid": 1,
+      
+     
+        "option_a": "ANDing",                 
+        "option_b": "ORing",               
+        "option_c": "Inverting",
+        "option_d":  "Buffering",
+     
+      "correct_option": "c"                
+    },  {
+      "question": "A byte 10101100 is applied as input to a 8-bit complementing logic circuit. The output will be:",
+      "qid": 2,
+      
+        "option_a": "00001111",
+        "option_b": "10100011",
+        "option_c": "11111100",
+        "option_d":  "01010011",
+      
+      "correct_option": "d"
+    }, {
+      "question": "The output of the combinational logic shown in figure below is given by the Boolean expression:  <br> <img src = 'images/p6.png' >",
+      "qid": 3,
+     
+      
+        "option_a": "Y = 1",
+        "option_b": "Y = 0",
+        "option_c": "Y = A",
+        "option_d":  "Y = A'",
+     
+      "correct_option": "c"
+    }, {
+      "question": " The output of the expression AB.A'= ______.",
+      "qid": 4,
+     
+        "option_a": "A",
+        "option_b": "A'",
+        "option_c": "0",
+        "option_d":  "1",
+      
+      "correct_option": "c"
+    }, {
+      "question": "The output of the expression A'(A + A') = _______.",
+      "qid": 5,
+     
+        "option_a": "A",
+        "option_b": "A'",
+        "option_c": "1",
+        "option_d":  "0",
+      
+      "correct_option": "b"
+    }
+    
+   
+
+
+
+  ]

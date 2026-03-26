@@ -1,0 +1,2 @@
+The aim of this experiment is to apply a basic NOT gate logic in a 8 -bit one’s complement circuit.
+The user will be able to build, simulate and verify the 8-bit one’s complementing circuit using the generalized simulator (a blank canvas with click & place facility for selected gates).

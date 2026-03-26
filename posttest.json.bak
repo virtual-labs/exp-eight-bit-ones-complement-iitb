@@ -1,0 +1,56 @@
+
+ [
+    {
+      "question": "When a Logic 1 is applied on the input of a NOT gate, the output is ______.",  
+      "qid": 1,
+        "option_a":  "Logic 0",                  
+        "option_b":  " Logic 1",                  
+        "option_c": "High Impedance (Z)",                  
+        "option_d": "None of these",                            
+                                      
+     
+      "correct_option": "a"                
+    }, {
+      "question": "If the 8-bit input is set to 1111 0000, the output of the 1’s complement circuit is ___________.",  
+      "qid": 2,
+        
+        "option_a":  "1111 1111",                  
+        "option_b":  "0000 0000",                                 
+        "option_c": "0000 1111",
+        "option_d": "1010 0101",                
+                                      
+    
+      "correct_option": "c"                
+    },  {
+      "question": "For the NOT gate shown ![images](images/q3.png), what is the active output state?",  
+      "qid": 3,
+        "option_a":  "1",                  
+        "option_b":  "0",
+        "option_c": "High Impedance (Z)",
+        "option_d": "None of these",                 
+                                       
+    
+      "correct_option": "b"                
+    },  {
+      "question": "For the symbol shown, ![images](images/q4.jpg) with a bubble on the input side, the active input state is _______.",  
+      "qid": 4,
+        "option_a":  "1",                  
+        "option_b":  "0",
+        "option_c": "High Impedance (Z)",
+        "option_d": "None of these",               
+                                       
+     
+      "correct_option": "b"                
+    }, {
+      "question": "A bubble on the input or output of any logic element refers to ___________.",
+      "qid": 5,
+        "option_a":  "ANDing",
+        "option_b":  "ORing",
+        "option_c": "Complementation",
+        "option_d": "Zero",
+     
+      "correct_option": "c"
+    }
+   
+
+  ]
